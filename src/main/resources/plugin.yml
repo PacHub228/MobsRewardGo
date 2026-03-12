@@ -1,0 +1,5 @@
+name: MobsRewardGo
+version: 1.0
+main: pac.hy_da.mobsrewardgo.MobsRewardGo
+api-version: '1.16'
+author: Timofey
